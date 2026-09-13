@@ -2,7 +2,7 @@
 
 **Author:** NEOSYNC  
 **Date:** September 2026  
-**Tools:** DIE, asar, Python, Frida, Ghidra
+**Tools:** DIE, asar, Python, Frida, IDA pro
 
 ## Overview
 
